@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915763712289",
+    "firebase_url": "https://photo-12310.firebaseio.com",
+    "project_id": "photo-12310",
+    "storage_bucket": "photo-12310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915763712289:android:c5e131d4c8b5afa5bb6e60",
+        "android_client_info": {
+          "package_name": "com.ptapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915763712289-i75idiqq3oop7iqd6q7hkr0c5knvi81p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJAGSK5UZ1qPnYVeP6MRl_Id1gPA4Q_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915763712289-i75idiqq3oop7iqd6q7hkr0c5knvi81p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

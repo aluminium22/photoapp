@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>915763712289-5umo5ak0ft9gk6vdc7silv4bsqdclrcu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.915763712289-5umo5ak0ft9gk6vdc7silv4bsqdclrcu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACuf-B7qTBZd59IYWwtgQOjxAyADxfWkw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>915763712289</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ptapp</string>
+	<key>PROJECT_ID</key>
+	<string>photo-12310</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-12310.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:915763712289:ios:d42e900506ce31c4bb6e60</string>
+	<key>DATABASE_URL</key>
+	<string>https://photo-12310.firebaseio.com</string>
+</dict>
+</plist>
